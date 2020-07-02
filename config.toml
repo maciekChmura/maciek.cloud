@@ -1,6 +1,6 @@
 # Override these settings with your own
 languageCode = "en-us"
-baseURL = "https://example.org/"
+baseURL = "https://maciek.cloud/"
 copyright = "© {year}"
 
 # The value "hugo-theme-codex" is only to get the exampleSite
@@ -12,9 +12,9 @@ theme = "hugo-theme-codex"
 # Optional params
 [params]
   # Show Twitter icon linking to twitter.com/your-twitter-handle
-  twitter = "your-twitter-handle" # omit @
+  twitter = "maciekChmura" # omit @
   # Show Github icon linking to github.com/your-github-handle
-  github = "your-github-handle" # omit @
+  github = "maciekChmura" # omit @
 
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting

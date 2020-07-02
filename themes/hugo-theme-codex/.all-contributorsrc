@@ -33,7 +33,9 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/7024160?v=4",
       "profile": "https://kentnek.com",
       "contributions": [
-        "code"
+        "code",
+        "doc",
+        "design"
       ]
     },
     {
@@ -51,7 +53,28 @@
       "avatar_url": "https://avatars0.githubusercontent.com/u/867299?v=4",
       "profile": "https://github.com/xvallspl",
       "contributions": [
+        "doc",
+        "code",
+        "design"
+      ]
+    },
+    {
+      "login": "pyvain",
+      "name": "Pyvain",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/2924494?v=4",
+      "profile": "https://github.com/pyvain",
+      "contributions": [
+        "code",
         "doc"
+      ]
+    },
+    {
+      "login": "jlebar",
+      "name": "Justin Lebar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/150663?v=4",
+      "profile": "http://jlebar.com",
+      "contributions": [
+        "code"
       ]
     }
   ],

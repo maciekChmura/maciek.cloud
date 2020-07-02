@@ -6,7 +6,8 @@ description: "Sample article showcasing basic Markdown syntax and formatting for
 keywords: ["gohugo", "hugo", "go", "blog"]
 draft: false
 tags: ["markdown", "css", "html", "themes"]
-stylesheet: "post.css"
+math: false
+toc: false
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
@@ -37,6 +38,14 @@ The blockquote element represents content that is quoted from another source, op
 
 > Tiam, ad mint andaepu dandae nostion secatur sequo quae.
 > **Note** that you can use *Markdown syntax* within a blockquote.
+
+#### Blockquote with attribution
+
+> Simplicity is the ultimate sophistication.
+> <cite>Leonardo da Vinci[^1]</cite>
+
+[^1]: The above quote is often attributed to Leonardo da Vinci but there is no concrete evidence to support this.
+
 
 ## Tables
 
