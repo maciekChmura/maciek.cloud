@@ -5,9 +5,15 @@ template: 'post'
 draft: false
 url: '/notes-on-refactoringUI/'
 category: 'Design'
-tags:
-- 'Design'
 description: 'Great book about modern UI design and best practices in web'
+keywords: [RefactoringUI, design, UI]
+tags: [
+  # code,
+  # no_code,
+  note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 Refactoring UI is a project by Adam Wathan & Steve Schoger. It is a package of useful resources for developers who want to sharpen their design skills.

@@ -4,10 +4,15 @@ date: '2019-01-03T22:12:03.284Z'
 template: 'post'
 draft: false
 url: '/bash-magic-spell-to-replace-files'
-category: 'tips'
-tags:
-  - 'script'
 description: 'How to easily replace files with bash'
+keywords: [bash, script]
+tags: [
+  code,
+  # no_code,
+  # note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 ![Bash Logo](./bash.jpg)

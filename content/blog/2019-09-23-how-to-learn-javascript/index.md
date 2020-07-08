@@ -4,10 +4,15 @@ date: '2019-09-23'
 template: 'post'
 draft: false
 url: '/how-to-learn-javascript'
-category: 'JavaScript'
-tags:
-  - 'JavaScript'
 description: "Some mistakes I made while learning JavaScript"
+keywords: [JavaScript, learn]
+tags: [
+  code,
+  # no_code,
+  # note,
+  # idea,
+  # make_log,
+  ]
 ---
 This is the second post of a series about my path of learning JavaScript.
 The last post described my opinion about what not to do while learning JS.

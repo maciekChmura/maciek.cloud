@@ -4,10 +4,15 @@ date: '2019-02-05T22:12:03.284Z'
 template: 'post'
 draft: false
 url: '/hardware-idea'
-category: 'idea'
-tags:
-  - 'keyboard'
 description: 'Silly hardware idea for keyboard'
+keywords: [keyboard, idea]
+tags: [
+  # code,
+  # no_code,
+  # note,
+  idea,
+  # make_log,
+  ]
 ---
 
 Hardware is probably too big word for what I have in mind. A gadget? Helper?

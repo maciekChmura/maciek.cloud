@@ -4,11 +4,15 @@ date: '2019-02-14T22:12:03.284Z'
 template: 'post'
 draft: false
 url: '/4-fast-ways-to-run-JavaScript'
-category: 'JavaScript'
-tags:
-  - 'JavaScript'
-  - 'tips'
 description: 'How to run and debug JavaScript'
+keywords: [JavaScript, running code]
+tags: [
+  code,
+  # no_code,
+  # note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 I like to learn new things.  

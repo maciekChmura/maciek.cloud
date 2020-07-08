@@ -1,5 +1,8 @@
 ---
 heading: "Hi, I'm Maciek Chmura"
-subheading: "I write about making stuff"
+subheading: "notes on making things"
 handle: "maciekChmura"
 ---
+
+lalalalalal
+lalal

@@ -4,10 +4,15 @@ date: '2019-09-17'
 template: 'post'
 draft: false
 url: '/how-not-to-learn-javascript'
-category: 'JavaScript'
-tags:
-  - 'JavaScript'
 description: Some mistakes I made while learning JavaScript.
+keywords: [JavaScript, learn]
+tags: [
+  code,
+  # no_code,
+  # note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 A few years ago when I was starting my journey as a programmer I asked my friend(an unnamed hero, who is an awesome programmer) a question:

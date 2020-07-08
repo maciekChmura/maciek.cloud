@@ -4,12 +4,15 @@ date: '2019-05-28'
 template: 'post'
 draft: false
 url: '/how-i-structure-a-react-project'
-category: 'JavaScript'
-tags:
-  - 'JavaScript'
-  - 'React'
-  - 'App'
 description: 'A simple folder schema to keep components in order'
+keywords: [JavaScript, React, project, structure]
+tags: [
+  code,
+  # no_code,
+  # note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 There are many guides on how to structure web apps and React in particular.

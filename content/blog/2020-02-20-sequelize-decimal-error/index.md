@@ -5,9 +5,15 @@ template: 'post'
 draft: false
 url: '/sequelize-decimal-type-error/'
 category: 'JavaScript'
-tags:
-  - 'JavaScript'
 description: "Sequelize returns a string instead of a number for decimal type"
+keywords: [Sequelize]
+tags: [
+  code,
+  # no_code,
+  note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 Sequelize is probably the most popular ORM for Express. It helped me to quickly start with a NodeJS server and a Postgres database in my current side project.

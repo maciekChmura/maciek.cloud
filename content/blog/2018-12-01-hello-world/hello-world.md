@@ -4,10 +4,15 @@ date: '2018-12-01T22:12:03.284Z'
 template: 'post'
 draft: false
 url: '/hello-world'
-category: 'Personal'
-tags:
-  - 'Hello World!'
 description: 'This is my first post on my personal blog.'
+keywords: [hello world]
+tags: [
+  # code,
+  # no_code,
+  note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 ### Hello.

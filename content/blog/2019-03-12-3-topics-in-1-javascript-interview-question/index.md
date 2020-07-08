@@ -4,11 +4,15 @@ date: '2019-03-12T22:12:03.284Z'
 template: 'post'
 draft: false
 url: '/3-topics-in-1-javascript-interview-question'
-category: 'JavaScript'
-tags:
-  - 'JavaScript'
-  - 'interview'
 description: 'Popular JavaScript interview question and answer. 3 topics of JavaScript'
+keywords: [JavaScript, interview]
+tags: [
+  code,
+  # no_code,
+  # note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 Programming interviews are hard. Live coding during the interview is even harder.  

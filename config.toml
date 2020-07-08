@@ -17,6 +17,7 @@ theme = "hugo-theme-codex"
   twitter = "https://twitter.com/maciekChmura" # omit @
   # Show Github icon linking to github.com/your-github-handle
   github = "https://github.com/maciekChmura" # omit @
+  email = "mailto:maciekChmura@protonmail.com"
 
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting

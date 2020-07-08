@@ -4,10 +4,15 @@ date: '2018-12-18T22:12:03.284Z'
 template: 'post'
 draft: false
 url: '/how-I-stay-productive-in-a-big-project'
-category: 'tips'
-tags:
-  - 'productivity'
 description: 'How I stay productive in a big JavaScript project... and not get lost on the way.'
+keywords: [productivity, JavaScript, project]
+tags: [
+  # code,
+  no_code,
+  # note,
+  # idea,
+  # make_log,
+  ]
 ---
 
 ...and not get lost on the way.
@@ -88,7 +93,7 @@ I've customized it with:
       "backgroundColor": "#116644",
       "borderRadius": "2px",
     },
-  ],
+  ]
 ```
 
 This is helpful to quickly lookup all the places that cought my eye.
