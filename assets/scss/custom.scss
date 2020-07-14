@@ -12,3 +12,10 @@
 .post .tags__list .tag__item .tag__link :hover {
 background: #d5eeff;
 }
+
+.post img {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  display: block;
+}
