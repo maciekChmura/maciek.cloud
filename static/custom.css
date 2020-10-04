@@ -1,0 +1,13 @@
+/* * {
+    border: 1px solid red;
+} */
+
+pre {
+    background-color: transparent !important;
+}
+
+pre > code {
+    font-family: "Sans Mono", "Consolas", "Courier", monospace;
+    font-size: 16px;
+    border-radius: 6px;
+}
