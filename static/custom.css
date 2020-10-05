@@ -11,3 +11,42 @@ pre > code {
     font-size: 16px;
     border-radius: 6px;
 }
+
+:root {
+    --color-light: rgb(0, 120, 189);
+    --color-light-hover: rgb(96, 197, 255);
+    --color-dark: rgb(77, 176, 233);
+    --color-dark-hover: rgb(159, 220, 255);
+  }
+
+a {
+  text-decoration:none;
+  color: var(--color-light);
+  transition: color 0.2s cubic-bezier(.33,.66,.66,1);
+}
+
+a:visited {
+  color: var(--color-light);
+}
+
+a:hover {
+  color: var(--color-light-hover);
+}
+
+
+
+@media (prefers-color-scheme: dark) { */
+  a {
+    text-decoration:none;
+    color: var(--color-dark);
+    transition: color 0.2s cubic-bezier(.33,.66,.66,1);
+  }
+
+  a:visited {
+    color: var(--color-dark);
+  }
+
+  a:hover {
+    color: var(--color-dark-hover);
+  }
+}
