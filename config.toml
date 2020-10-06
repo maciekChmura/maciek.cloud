@@ -1,5 +1,5 @@
 
-baseURL = "https://maciek.cloud"
+baseURL = "https://maciek.cloud/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
