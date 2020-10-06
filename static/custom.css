@@ -25,9 +25,9 @@ a {
   transition: color 0.2s cubic-bezier(.33,.66,.66,1);
 }
 
-a:visited {
-  color: var(--color-light);
-}
+/*a:visited {*/
+/*  color: var(--color-light);*/
+/*}*/
 
 a:hover {
   color: var(--color-light-hover);
@@ -35,16 +35,16 @@ a:hover {
 
 
 
-@media (prefers-color-scheme: dark) { */
+@media (prefers-color-scheme: dark) {
   a {
     text-decoration:none;
     color: var(--color-dark);
     transition: color 0.2s cubic-bezier(.33,.66,.66,1);
   }
 
-  a:visited {
-    color: var(--color-dark);
-  }
+  /*a:visited {*/
+  /*  color: var(--color-dark);*/
+  /*}*/
 
   a:hover {
     color: var(--color-dark-hover);
