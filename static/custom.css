@@ -12,6 +12,14 @@ pre > code {
     border-radius: 6px;
 }
 
+code {
+    font-family: "Sans Mono", "Consolas", "Courier", monospace;
+    font-size: 16px;
+    border-radius: 3px;
+    background: #282c34;
+    padding: 4px;
+}
+
 :root {
     --color-light: rgb(0, 120, 189);
     --color-light-hover: rgb(96, 197, 255);
